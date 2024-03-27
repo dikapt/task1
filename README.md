@@ -20,8 +20,11 @@ On the main page of the site, we present our developers and the possibility of s
 On this page, we display a visualization of how Minty's algorithm works. The user can input data and watch the algorithm work in real time.  
 
 
-**Documentation**  
-We provide a brief guide to using the site and an explanation of how Minty's algorithm works for users.  
+**About**  
+We entroduce our team here. You can also contact our developers if you'd like to work with them.
+
+
+
 
 
 ## Technologies
@@ -29,25 +32,27 @@ TS + Angular
 
 ## Usage:
 
-1. By pressing the Seed button, the collected data will be filled. If you wish, you can fill in your own.  
-![image](https://github.com/dikapt/task1/assets/120253697/cfc9f89e-98c9-404c-9f26-8edfac71b52a)  
-
+1. By choosing Saved Datasets, the collected data will be filled. If you wish, you can fill in your own.  
+![img1](https://github.com/dikapt/task1/assets/120253697/8e39f64f-d072-4098-8ad2-fec28064738d)  
 We get the graph.    
-![image-1](https://github.com/dikapt/task1/assets/120253697/e1c411b7-12c1-4052-9a49-d063f7b0db9a)  
+![img2](https://github.com/dikapt/task1/assets/120253697/402edfe0-6ca1-405c-bac0-cf754d3ca8fd)
 
 
-2. By clicking on any node, the algorithm will start looking for the shortest path, and highlight it in green. The right will write the distance ("H: 16" in the screenshot).  
-If the path is not found, a message will be displayed.    
-![photo_2024-02-27_11-45-18](https://github.com/dikapt/task1/assets/120253697/f361a94f-b6d4-41c3-822b-4c680069a401)  
-
+2. By clicking on any node, the algorithm will start looking for the shortest path, and highlight it in green. The right will write the distance ("H: 16" in the screenshot). It also shows every step of getting to the choosed node. 
+If the path is not found, a message will be displayed.      
+![img3](https://github.com/dikapt/task1/assets/120253697/ac15bbac-8953-427f-aefc-b320ec6c6c6f)
 3. Also added a function to save the entered data to the browser's local storage.  
 ![Знімок екрана 2024-03-13 162344](https://github.com/dikapt/task1/assets/120253697/4aa2b0c6-e452-411f-aae5-50b1d62a35f8)  
 Now we can choose the dataset we need from the list.    
 ![Знімок екрана 2024-03-13 162834](https://github.com/dikapt/task1/assets/120253697/a3ca6c0b-046a-41c7-b432-f41871d287b7)
 
 ## Team
+Yuriy Fedkovych Chernivtsi National University  
+Educational and Research Institute of Physical, Technical and Computer Sciences  
+Department of Mathematical Problems of Management and Cybernetics  
+Supervisor: Mykola Rusnak   
 
-
+Created by:
 - Bohdan Bandura - developer.
 - Dmytro Paskar - developer.
 - Maxim Nazarov - tester.
